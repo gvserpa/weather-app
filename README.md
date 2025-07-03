@@ -31,9 +31,6 @@ A React application to search and display current weather forecasts using the [O
 
 2- Create a .env.local file in the root of the project with your OpenWeather API key:
 
-  ini
-  Copy
-  Edit
   VITE_OPENWEATHER_API_KEY=your_api_key_here
 
 
